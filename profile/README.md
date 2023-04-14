@@ -1,5 +1,7 @@
 # UndergroundJS
 
+![UndergroundJS small color logo](../assets/ugjs-logo-sm-color.png)
+
 Welcome! UndergroundJS was founded to highlight and level up our local community. By being community focused, our goal is to share different amazing projects, companies, and people in the Nashville community.
 
 After a successful inaugural event in 2019, UndergroundJS went on hiatus due to the COVID-19 pandemic. We are excited to return in 2023 with years of pent up excitement and energy.
