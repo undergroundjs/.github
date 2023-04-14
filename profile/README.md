@@ -1,6 +1,4 @@
-# UndergroundJS
-
-![UndergroundJS small color logo](https://github.com/undergroundjs/.github/blob/main/assets/ugjs-logo-sm-color.png)
+![UndergroundJS large black and white logo](https://github.com/undergroundjs/.github/blob/main/assets/ugjs-logo-large.png)
 
 Welcome! UndergroundJS was founded to highlight and level up our local community. By being community focused, our goal is to share different amazing projects, companies, and people in the Nashville community.
 
